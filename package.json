@@ -1,0 +1,15 @@
+{
+  "name": "jollychic-mobile",
+  "private": true,
+  "version": "1.0.1",
+  "author": "jollychic",
+  "description": "jollychic mobile description",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-header": "^1.8.8",
+    "gulp-jollychic-version": "0.0.1",
+    "gulp-sequence": "^0.4.6",
+    "gulp-uglify": "^2.1.0"
+  }
+}
